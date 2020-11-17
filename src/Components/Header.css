@@ -1,0 +1,22 @@
+.header {
+    background-color: antiquewhite;
+    height: 120px;
+    width: 100%;
+     display: flex; 
+/*
+    Align-Items: center;
+    Justify-Content: center; */
+
+
+    /* backgroundColor: 'white',
+    width: '10%',
+    height: '10%',
+    paddingLeft: 0,
+    marginLeft:0 */
+  }
+  
+  .taille_logo{
+    align-self: center;
+      height: 3em;
+      width: auto;
+  }
